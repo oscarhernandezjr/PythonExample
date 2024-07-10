@@ -15,7 +15,7 @@ if __name__ == "__main__":
     # Input: Ask the user for their age
     age = int(input("Enter Your Age: "))
 
-    # Call the is_of_legal_age function and store the result
+    # Call the is_of_legal_age function and stores the result
     legal_age = is_of_legal_age(age)
 
     # Output: Prints if the person is of legal age or not
